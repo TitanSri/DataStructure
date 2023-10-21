@@ -1,0 +1,10 @@
+Social Netowrk Popularity list:
+--------------------------------
+  Name		 Popularity
+--------------------------------
+Gwendolyn            3
+Gromit		     2
+Wallace		     2
+Batman		     1
+Le-Spiderman	     1
+Superman	     1
